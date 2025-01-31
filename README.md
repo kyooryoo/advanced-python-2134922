@@ -1,1 +1,1 @@
-"# advanced-python-2134922" 
+# Advanced Python course #2134922 from LinkedIn
